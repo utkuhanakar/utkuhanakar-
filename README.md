@@ -113,14 +113,6 @@ Hands-on learning with AI support
 
 ---
 
-## 🏆 TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkuhanakar&theme=onedark&no-frame=true&margin-w=8"/>
-</p>
-
----
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
