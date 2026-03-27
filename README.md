@@ -107,11 +107,14 @@ Hands-on learning with AI support
 
 ## ⏱ WAKATIME
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=utkuhanakar&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
+
+
+<p align="center">
+  <img src="https://wakatime.com/share/@cb1b3a3a-e289-40b1-996a-9e736dc40a9b/98a6e366-45b8-47bf-9453-f726195e7e7c.svg" />
+</p>
+
 
 ## 🐍 CONTRIBUTION SNAKE
 
