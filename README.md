@@ -107,6 +107,13 @@ Hands-on learning with AI support
 
 ## ⏱ WAKATIME
 <!--START_SECTION:waka-->
+
+```txt
+CSS          2 hrs 15 mins         ████████████████████░░░░░   80.01 %
+HTML         22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+JavaScript   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
