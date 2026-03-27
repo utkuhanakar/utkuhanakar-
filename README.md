@@ -83,7 +83,7 @@ Hands-on learning with AI support
 ## 📊 ANALYTICS
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=utkuhanakar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=utkuhanakar&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuhanakar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -131,29 +131,6 @@ Dev-Learning      → structured system
 Web Learning      → HTML / CSS / JS
 AI Systems        → in progress
 Game Dev          → Unity-based projects
-```
-
----
-
-## 🎮 INTERFACE
-
-```text id="intx1"
-[1] Initialize Systems
-[2] Load AI Modules
-[3] Enter Game Dev Mode
-[4] Explore Projects
-
-> awaiting input...
-```
-
----
-
-## 🕶 SECRET
-
-```text id="secretx1"
-type: hanak
-
-access granted...
 ```
 
 ---
