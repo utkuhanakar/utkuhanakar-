@@ -140,17 +140,31 @@ Game Dev          → Unity-based projects
 
 ---
 
-## 🌐 CONNECT WİTH ME 
+<h3>🌐 CONNECT WITH ME</h3>
 
 <p align="left">
-<a href="https://utkuhanakar.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/utkuhanakar/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/utkuhanakar?igsh=MTZ6eWpoeGhyM3pzdQ==" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:utkuhanakar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
+<a href="https://utkuhanakar.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/utkuhanakar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://dev.to/utkuhanakar" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/utkuhan_akar" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:utkuhanakar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ## ⚙️ CORE LOOP
 
