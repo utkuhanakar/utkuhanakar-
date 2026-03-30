@@ -136,6 +136,7 @@ Dev-Learning      → structured system
 Web Learning      → HTML / CSS / JS
 AI Systems        → in progress
 Game Dev          → Unity-based projects
+CLI Tools         → mini-scoreboard (Python Enterprise Arch.)
 ```
 
 ---
