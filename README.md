@@ -109,9 +109,9 @@ Hands-on learning with AI support
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          2 hrs 15 mins         ████████████████████░░░░░   80.01 %
-HTML         22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-JavaScript   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+CSS          2 hrs 15 mins         ███████████████████░░░░░░   76.47 %
+HTML         22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
+JavaScript   18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
 ```
 
 <!--END_SECTION:waka-->
