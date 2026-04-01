@@ -19,7 +19,7 @@
 Utkuhan Akar
 
 > role
-Software Engineering Student
+Software Engineering first-year student
 
 > domains
 AI / Game Development / Systems
