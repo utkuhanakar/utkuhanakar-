@@ -109,11 +109,11 @@ Hands-on learning with AI support
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 18 mins               █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-Markdown                           17 mins               █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-Python                             15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-Text                               15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-JavaScript                         8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+C#                                 18 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+Markdown                           17 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+Python                             15 mins               █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Text                               15 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+Microsoft Visual Studio Solution   6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
 ```
 
 <!--END_SECTION:waka-->
