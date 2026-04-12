@@ -109,11 +109,10 @@ Hands-on learning with AI support
 <!--START_SECTION:waka-->
 
 ```txt
-Python       34 mins               █████████████████▒░░░░░░░   68.77 %
-Git Config   8 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
-Other        5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Markdown     1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python       19 mins               ████████████████▒░░░░░░░░   65.79 %
+Git Config   8 mins                ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Markdown     1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
