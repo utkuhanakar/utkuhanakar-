@@ -109,8 +109,9 @@ Hands-on learning with AI support
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   8 mins                ████████████████████████▓   98.08 %
-Git          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+HTML         10 mins               ██████████████░░░░░░░░░░░   56.62 %
+Git Config   8 mins                ██████████▓░░░░░░░░░░░░░░   42.54 %
+Git          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
