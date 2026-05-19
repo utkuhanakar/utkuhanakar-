@@ -140,11 +140,11 @@ Hands-on learning with AI support
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 5 mins          ███████████████▒░░░░░░░░░   61.23 %
-Python       42 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-JSON         24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-HTML         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Markdown     11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+TypeScript   3 hrs 29 mins         ███████████████▒░░░░░░░░░   61.80 %
+Python       42 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+JSON         32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+HTML         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Markdown     11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
